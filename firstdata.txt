@@ -8,3 +8,4 @@ A new massage in branch dev
 Hello master and feature1
 There is a bug!
 I want to learn git!
+This is a new feature
